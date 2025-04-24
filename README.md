@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaruki&label=Profile%20views&color=0e75b6&style=flat" alt="mfaruki" /> </p>
 
-- 🔭 I’m currently working on [Replenish](https://github.com/mfaruki/replenish)
+- 🔭 I’m currently working on [Arabic Flashcards](https://github.com/mfaruki/arabic-flashcards)
 
 - 🌱 I’m currently learning **Machine Learning, AI, Neural Networks, Data**
 
